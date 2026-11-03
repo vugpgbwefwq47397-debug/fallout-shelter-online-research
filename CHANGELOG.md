@@ -4,6 +4,8 @@
 
 2026-11-03 · 预览版 · [版本介绍与截图 / Version details](docs/releases/5.24.50.md)
 
+[下载5.24.50 / Download](https://github.com/vugpgbwefwq47397-debug/fallout-shelter-online-research/releases/tag/5.24.50)
+
 本次同步卢卡斯西蒙斯正式异格，三条分支各3级；下图为满异格状态。
 
 ![5.24.50 卢卡斯西蒙斯满异格](assets/screenshots/lucas-yige-5.24.50.png)
