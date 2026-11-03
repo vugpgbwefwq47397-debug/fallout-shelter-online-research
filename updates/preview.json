@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "channel": "preview",
+  "status": "prerelease",
+  "version": "5.24.50",
+  "content_version": "5.24.50",
+  "cache_id": "52450.20261103.1",
+  "assets": [
+    {
+      "name": "FOSOnline-Research-5.24.50-cache-5.24.50.apk.part01",
+      "bytes": 1610612736,
+      "sha256": "2712ef8b029e35bb5690028938f3d500512a5115ac167134584c4654cced49ce",
+      "url": "https://github.com/vugpgbwefwq47397-debug/fallout-shelter-online-research/releases/download/5.24.50/FOSOnline-Research-5.24.50-cache-5.24.50.apk.part01"
+    },
+    {
+      "name": "FOSOnline-Research-5.24.50-cache-5.24.50.apk.part02",
+      "bytes": 1289984883,
+      "sha256": "85f5ac1896e2125ec6e35bb34d99614510b422b0a5795c2738095e9ba40f402f",
+      "url": "https://github.com/vugpgbwefwq47397-debug/fallout-shelter-online-research/releases/download/5.24.50/FOSOnline-Research-5.24.50-cache-5.24.50.apk.part02"
+    }
+  ],
+  "automatic_updates_enabled": false,
+  "remote_code_loading_enabled": false,
+  "apk": {
+    "name": "FOSOnline-Research-5.24.50-cache-5.24.50.apk",
+    "bytes": 2900597619,
+    "sha256": "41bc5a35597decdfd27ecb19a390d917e2e1b1821608e1bfc5fd2cee4541e3e1"
+  },
+  "certificate_sha256": "f8b621d09d8c6ae277f318721c70e1d684f8cbf55c90be154f9524065b92a661",
+  "release_url": "https://github.com/vugpgbwefwq47397-debug/fallout-shelter-online-research/releases/tag/5.24.50",
+  "manifest_url": "https://github.com/vugpgbwefwq47397-debug/fallout-shelter-online-research/releases/download/5.24.50/manifest.json",
+  "join_tool_url": "https://github.com/vugpgbwefwq47397-debug/fallout-shelter-online-research/releases/download/5.24.50/Join-Release.ps1"
+}

@@ -1,0 +1,16 @@
+*
+!README.md
+!README.en.md
+!REVIEW.md
+!CHANGELOG.md
+!Join-Release.ps1
+!.gitignore
+!updates/
+!updates/*.json
+!docs/
+!docs/*.md
+!docs/releases/
+!docs/releases/*.md
+!assets/
+!assets/screenshots/
+!assets/screenshots/*.png

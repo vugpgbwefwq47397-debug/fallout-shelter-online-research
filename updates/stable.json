@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "status": "reserved",
+  "version": null,
+  "content_version": null,
+  "cache_id": null,
+  "assets": [],
+  "automatic_updates_enabled": false,
+  "remote_code_loading_enabled": false
+}
